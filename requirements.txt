@@ -1,0 +1,11 @@
+fastapi~=0.95.0
+uvicorn~=0.21.1
+databases~=0.7.0
+databases[postgresql]
+sqlalchemy~=1.4.47
+asyncpg
+psycopg2-binary
+loguru~=0.7.0
+starlette~=0.26.1
+pydantic~=1.10.7
+pytz~=2023.3
