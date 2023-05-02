@@ -16,11 +16,11 @@ POSTGRES_PASSWORD (пароль пользователя)
 # Инструкция по запуску без Docker
 ## 1. Склонируйте репозиторий
 
-`git clone https://github.com/vyual/task_manager`
+`git clone https://github.com/vyual/fastapi_template`
 
 ## 2. Создайте venv
 
-`cd task_manager/`
+`cd fastapi_template/`
 `python -m venv`
 
 ## 3. Установите зависимости
